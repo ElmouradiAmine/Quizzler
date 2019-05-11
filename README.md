@@ -1,6 +1,7 @@
 # quizzler_flutter
 
-A new Flutter application.
+a quiz app
+![](https://github.com/ElmouradiAmine/Quizzler/blob/master/flutter_01.png)
 
 ## Getting Started
 
